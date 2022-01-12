@@ -1,0 +1,7 @@
+12-Jan-22 12:40:10 - app - ERROR - '24.48.0.' does not appear to be an IPv4 or IPv6 address
+12-Jan-22 12:41:33 - weather_api - ERROR - 404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Guangzhou%20Shi&appid=b97aac961b6899d1caf2b26a2b88e534
+12-Jan-22 12:43:56 - weather_api - ERROR - 404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Guangzhou%20Shi&appid=b97aac961b6899d1caf2b26a2b88e534
+12-Jan-22 12:44:04 - weather_api - ERROR - 404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Guangzhou%20Shi&appid=b97aac961b6899d1caf2b26a2b88e534
+12-Jan-22 12:45:10 - weather_api - ERROR - 404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Guangzhou%20Shi&appid=b97aac961b6899d1caf2b26a2b88e534
+12-Jan-22 12:45:57 - weather_api - ERROR - 404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Guangzhou%20Shi&appid=b97aac961b6899d1caf2b26a2b88e534
+12-Jan-22 12:46:13 - app - ERROR - '42.1.0.' does not appear to be an IPv4 or IPv6 address
